@@ -1,0 +1,25 @@
+[1.311s] Invoking command in '/home/exoreray/my_new_workspace/build/path_planner': CONDA_PROMPT_MODIFIER=(car-racing) PYTHONPATH=/home/exoreray/my_new_workspace/build/path_planner/prefix_override:/home/exoreray/my_new_workspace/install/path_planner/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/exoreray/my_new_workspace/build/path_planner/build --no-deps install_data
+[1.662s] running develop
+[1.942s] running egg_info
+[1.942s] creating path_planner.egg-info
+[1.942s] writing path_planner.egg-info/PKG-INFO
+[1.942s] writing dependency_links to path_planner.egg-info/dependency_links.txt
+[1.943s] writing entry points to path_planner.egg-info/entry_points.txt
+[1.943s] writing requirements to path_planner.egg-info/requires.txt
+[1.943s] writing top-level names to path_planner.egg-info/top_level.txt
+[1.951s] writing manifest file 'path_planner.egg-info/SOURCES.txt'
+[2.003s] reading manifest file 'path_planner.egg-info/SOURCES.txt'
+[2.003s] writing manifest file 'path_planner.egg-info/SOURCES.txt'
+[2.103s] running build_ext
+[2.113s] Creating /home/exoreray/my_new_workspace/install/path_planner/lib/python3.8/site-packages/site.py
+[2.113s] Creating /home/exoreray/my_new_workspace/install/path_planner/lib/python3.8/site-packages/path-planner.egg-link (link to .)
+[2.113s] Installing planner_node script to /home/exoreray/my_new_workspace/install/path_planner/lib/path_planner
+[2.113s] 
+[2.113s] Installed /home/exoreray/my_new_workspace/build/path_planner
+[2.113s] running install_data
+[2.113s] creating /home/exoreray/my_new_workspace/install/path_planner/share/ament_index
+[2.113s] creating /home/exoreray/my_new_workspace/install/path_planner/share/ament_index/resource_index
+[2.113s] creating /home/exoreray/my_new_workspace/install/path_planner/share/ament_index/resource_index/packages
+[2.113s] copying resource/path_planner -> /home/exoreray/my_new_workspace/install/path_planner/share/ament_index/resource_index/packages
+[2.113s] copying package.xml -> /home/exoreray/my_new_workspace/install/path_planner/share/path_planner
+[2.163s] Invoked command in '/home/exoreray/my_new_workspace/build/path_planner' returned '0': CONDA_PROMPT_MODIFIER=(car-racing) PYTHONPATH=/home/exoreray/my_new_workspace/build/path_planner/prefix_override:/home/exoreray/my_new_workspace/install/path_planner/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/exoreray/my_new_workspace/build/path_planner/build --no-deps install_data
